@@ -1,0 +1,126 @@
+body{
+    background-image:url('https://rvu.edu.in/wp-content/uploads/2022/03/banner-image-02-01.png');
+    background-position:auto;
+    background-size:1200px;
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 286px;
+    margin-left:80px;
+    font-family: cursive;
+    
+}
+
+.wel
+{
+    margin-left: 500px;
+    background-size: 700px;
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: justify;
+}
+h2{
+    margin-bottom: 40px; 
+    background-size: 3000px;
+    background-color:;
+}
+li{
+    margin-bottom: 30px;
+    margin-left:130px;
+    list-style-type: none;
+    font-family: '';
+    font-size: 20px;
+}
+#myDIV {
+    width: 1500px;
+    height: 4000px;
+    background:rgb(171, 226, 226);
+    animation:normal 5s infinite;
+    text-align: center;
+    margin-left:-15px;
+  }
+  
+  @keyframes mymove {
+    50% {background-color:#e4dfa3;}
+  }
+  #mix {
+    width: 400px;
+    height: 4000px;
+    background-color:#a192a8 ;
+    animation: mymove 5s infinite;
+    text-align: center;
+    margin-top:-4040px;
+    border-color: 2px solid rgba(235, 182, 182, 0.685);
+    margin-left:-110px;
+    font-family: '';
+    
+  }
+  
+  @keyframes mymove {
+    50% {background-color:;}
+  }
+  .del{
+    margin-left: 65px;
+    background-size: 700px;
+    margin-top:-3010px ;
+    text-align:;
+    font-family: '';
+    font-size: 20px;;
+  }
+.ps{
+    margin-left: 200px;
+    margin-top: 30px;
+    font-family: '';
+    font-size: 20px;
+    text-align: justify;
+}
+.cours
+{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: -1px;
+    font-family: '';
+}
+.btech
+{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: '';
+}
+.btechp
+{
+    margin-left: 200px;
+    font-size: 25px;
+    font-family: '';
+}
+.BBA{
+    margin-left:200px ;
+    font-size: 20px;
+    font-family: '';
+}
+.BBAp{
+    margin-left:200px ;
+    font-size: 20px;
+    font-family: '';
+}
+.BBAs{
+    margin-top: -1300px;
+    margin-left:200px
+}
+button {
+    background-color:rgb(158, 146, 146);
+    border: none;
+    color: rgb(54, 54, 54);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
